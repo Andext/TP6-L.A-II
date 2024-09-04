@@ -2,11 +2,11 @@
 
 ## 1. Variables y Tipos de Datos
 
-### Variables
-
-```python
-x = 10
-nombre = "Elias"
+| Variables      |
+| -------------  |
+|```python       |
+|x = 10          |
+|nombre = "Elias"|
 
 ##Tipos de Datos
 Enteros: int
